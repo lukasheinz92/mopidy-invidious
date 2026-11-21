@@ -30,6 +30,8 @@ Its content shows up in any Mopidy client under Browse → Invidious and in sear
 ## Installation
 
 ```sh
+pip install mopidy-invidious
+# or the latest development version from GitHub
 pip install git+https://github.com/lukasheinz92/mopidy-invidious
 # or from a local checkout
 pip install /path/to/mopidy-invidious

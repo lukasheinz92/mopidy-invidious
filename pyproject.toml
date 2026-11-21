@@ -22,6 +22,11 @@ dependencies = [
     "httpx>=0.28",
 ]
 
+[project.urls]
+Homepage = "https://github.com/lukasheinz92/mopidy-invidious"
+Repository = "https://github.com/lukasheinz92/mopidy-invidious"
+Issues = "https://github.com/lukasheinz92/mopidy-invidious/issues"
+
 [project.optional-dependencies]
 dev = ["pytest>=8", "ruff>=0.6"]
 
